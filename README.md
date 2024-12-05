@@ -24,3 +24,13 @@ The application is capable of:
    ```bash
    ./raytracer scene.xml
 3. The rendered images will be saved in the filenames specified in the XML file.
+
+## Example Outputs
+
+![image](https://github.com/user-attachments/assets/8a0e530b-bca6-4711-8614-05779ca1e7ce)
+
+![image](https://github.com/user-attachments/assets/378018da-43a0-4504-973d-5f50e7dd0062)
+
+![image](https://github.com/user-attachments/assets/1907f4d4-a99e-486d-b806-ba696f37d1af)
+
+![image](https://github.com/user-attachments/assets/d2d58152-fc73-40e8-bbd5-5da752033df0)
